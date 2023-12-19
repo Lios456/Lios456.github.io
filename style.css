@@ -2,8 +2,10 @@
     color:black;
     padding-left: 3cm;
     padding-right: 3cm;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 0cm;
+    padding-bottom: 0cm;
+    border: 1px solid black;
+    margin: 0;
 }
 .primera_seccion{
     background-color: aqua;
