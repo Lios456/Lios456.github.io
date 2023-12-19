@@ -1,3 +1,10 @@
+*{
+    color:black;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    padding-top: 0;
+    padding-bottom: 0;
+}
 .primera_seccion{
     background-color: aqua;
     color: black;
